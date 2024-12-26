@@ -1,0 +1,326 @@
+[
+      {
+        "user_query": "I'm looking for a clean, cruelty-free face oil from Sephora that's travel-friendly and won't break the bank. Any recommendations? I have normal skin and mainly want something hydrating.",
+        "system_response": "I recommend the Mini Virgin Marula Luxury Face Oil by Drunk Elephant.\nPrice: 315,000 IDR.\nRating: 4.3525/5 from 283.5k reviews\nHighlights: Good for: Dryness, Clean at Sephora\nWhy You'll Love It: This face oil is a standout for its hydrating and nourishing properties. It's rich in antioxidants and omega fatty acids, making it perfect for normal skin. Its travel-friendly size and clean, cruelty-free formulation make it a great choice.I recommend the Mini 100% Pure Argan Oil by Josie Maran. This product stands out because it’s vegan, cruelty-free, and offers a hydrating boost for normal skin. The mini size makes it travel-friendly, and the price is quite reasonable at 270,000 IDR.",
+        "reference_responses": "I recommend the Mini 100% Pure Argan Oil by Josie Maran. This product stands out because it’s vegan, cruelty-free, and offers a hydrating boost for normal skin. The mini size makes it travel-friendly, and the price is quite reasonable at 270,000 IDR.",
+        "key_points": ["skin_type", "budget", "product_name", "price", "features", "size"]
+      },
+      {
+        "user_query": "I'm struggling with enlarged pores and occasional breakouts. Looking for a clean face mask that can help purify my skin and minimize pores. Do you have recommendations?",
+        "system_response": "I recommend the Mini Rare Earth Deep Pore Minimizing Cleansing Clay Mask by Kiehl's Since 1851.\nPrice: 285,000 IDR\nRating: 4.1692/5 from 29.6k reviews\nHighlights: Good for: Pores, Clean at Sephora\nWhy You'll Love It: This mask stands out for its ability to deeply cleanse and minimize pores. It's formulated with Amazonian White Clay to draw out impurities, making it ideal for tackling enlarged pores and breakouts. Plus, its clean formulation ensures a gentle yet effective treatment." ,
+        "reference_responses": "I recommend the Umbrian Clay Pore Purifying Face Mask by Fresh. This mask is great for acne and blemishes, purifying your skin and minimizing pores. It is clean at Sephora, free from harsh chemicals, and is priced at 870,000 IDR.",
+        "key_points": ["skin_concern", "budget", "product_name", "price", "features", "benefits"]
+      },
+      {
+        "user_query": "I'm new to chemical exfoliants and want to try glycolic acid for anti-aging. Any recommendations for a starter size that won't be too harsh? Budget around 350k IDR.",
+        "system_response": "I recommend the Glycolic Acid 7% Exfoliating Toning Solution by The Ordinary.\nPrice: 210,000 IDR\nRating: 4.0447/5 from 1,040.1k reviews\nHighlights: Good for: Dullness/Uneven Texture, Vegan\nWhy You'll Love It: This toning solution offers a gentle introduction to glycolic acid, focusing on anti-aging and skin texture improvement. Vegan and budget-friendly, it's a great starting point for chemical exfoliants.", 
+        "reference_responses": "I recommend the Mini Liquid Gold Exfoliating Treatment with Glycolic Acid by Alpha-H. This mini size offers a gentler introduction to glycolic acid, targeting anti-aging concerns without being too harsh. It’s priced at 330,000 IDR.",
+        "key_points": ["skin_concern", "budget", "product_name", "price", "ingredients", "benefits", "size"]
+      },
+      {
+        "user_query": "I need help finding a precise brow pencil for natural-looking eyebrows. Looking for something vegan and well-reviewed, budget around 400k IDR. Any recommendations?",
+        "system_response": "I recommend the Brow Harmony Precision Pencil by Rare Beauty by Selena Gomez.\nPrice: 360,000 IDR\nRating: 4.4201/5 from 74.2k reviews\nHighlights: Allure Best of Beauty Award Winner, Vegan\nWhy You'll Love It**: This brow pencil stands out for its precision and natural finish. It's vegan and has garnered high praise for its easy application and long-lasting formula. Perfect for creating natural-looking eyebrows without compromising on quality.",
+        "reference_responses": "I recommend the Brow Wiz Ultra-Slim Precision Brow Pencil by Anastasia Beverly Hills. This pencil is vegan, creates a natural finish, and is well-reviewed, priced at 375,000 IDR.",
+        "key_points": ["product_type", "budget", "product_name", "price", "features", "finish", "rating"]
+      },
+      {
+        "user_query": "Can you suggest a fresh, citrusy unisex fragrance in a travel size? I love orange blossom and bergamot notes, and prefer clean formulations without parabens. Budget up to 550k IDR.",
+        "system_response": "I recommend the Orange Blossom Cologne by Jo Malone London.\n- **Price**: 1,125,000 IDR\n- **Rating**: 4.3333/5 from 1.3k reviews\n- **Highlights**: Layerable Scent, Floral Family\n- **Why You'll Love It**: This unisex fragrance stands out with its refreshing orange blossom and citrusy notes. It’s a versatile choice with a clean formulation, perfect for layering and creating a personalized scent experience.",
+        "reference_responses": "I recommend the 001 Orange Blossom, Petitgrain and Bergamot Eau de Parfum Travel Spray by Bon Parfumeur. This fragrance is unisex, clean, and features citrusy notes of orange blossom and bergamot. It’s priced at 510,000 IDR.",
+        "key_points": ["product_type", "budget", "product_name", "price", "scent", "features", "size"]
+      },
+      {
+        "user_query": "My skin needs a quick hydration boost throughout the day. Looking for a travel-friendly face mist for dry skin that won't break the bank (under 200k IDR). Any suggestions?",
+        "system_response": "I recommend the **Mini In Transit Pollution Shield Face Mist by this works**.\n- **Price**: 165,000 IDR\n- **Rating**: 3.5625/5 from 3k reviews\n- **Highlights**: Good for: Dryness, Hydrating\n- **Why You'll Love It**: This face mist is designed to hydrate and protect your skin against environmental stressors. It's perfect for dry skin, offering a quick hydration boost whenever needed.",
+        "reference_responses": ["I recommend the Mini Grape Water Moisturizing Face Mist by Caudalie. This moisturizers stands out because:\n1. Rating: 4.125/5 from 9290 reviews\n2. Key Highlights: Best for Dry Skin, Hydrating\n3. Price: 180,000.0 IDR"],
+        "key_points": ["skin_type", "budget", "product_name", "price", "features", "size"]
+    },
+    {
+        "user_query": "I'm ready to invest in a high-end moisturizer for my combination skin. Looking for something lightweight and vegan, and willing to spend up to 3.5M IDR. Worth the splurge recommendations?",
+        "system_response": "I suggest the The Moisturizing Soft Cream with Refill Set by LA MER. Here's why it stands out:\n1. **Rating and Reviews**: 4.2028/5 from 4425 reviews\n2. **Price**: 3,375,000.0 IDR\n3. **Key Highlights**:\n   - Good for: Dullness/Uneven Texture\n   - Without Parabens\n4. **Unique Features**:\n   - Good for: Loss of firmness\n   - Good for: Redness",
+        "reference_responses": ["I recommend the Face Cream Light by Dr. Barbara Sturm. This moisturizers stands out because:\n1. Rating: 3.9333/5 from 1420 reviews\n2. Key Highlights: Vegan, Best for Oily, Combo, Normal Skin\n3. Price: 3,225,000.0 IDR"],
+        "key_points": ["skin_type", "budget", "product_name", "price", "features", "preferences"]
+    },
+    {
+        "user_query": "Need a new mascara that actually stays put and gives length without smudging. Prefer something luxe, budget around 500k IDR. What's your holy grail?",
+        "system_response": "I recommend the Mascara Volume Effet Faux Cils Radical by Yves Saint Laurent. Here's why it's a standout choice:\n1. **Rating and Reviews**: 4.3309/5 from 22350 reviews\n2. **Price**: 510,000.0 IDR\n3. **Key Highlights**:\n   - Long-wearing\n   - Without Parabens\n4. **Unique Features**:\n   - Lengthening\n   - Volumizing",
+        "reference_responses": ["I recommend the Magnificent Smudgeproof Volumizing Mascara by Valentino. This eye stands out because:\n1. Rating: 4.2562/5 from 3109 reviews\n2. Key Highlights: Long-wearing, Lengthening\n3. Price: 480,000.0 IDR"],
+        "key_points": ["product_type", "budget", "product_name", "price", "features", "preferences"]
+    },
+    {
+        "user_query": "Looking for a high-end finishing powder that gives a natural glow without looking glittery. Prefer clean beauty without parabens. Budget around 800k IDR - worth the investment?",
+        "system_response": "I recommend the Ambient Lighting Infinity Powder by Hourglass. Here's why it's worth considering:\n1. **Rating and Reviews**: 4.2222/5 from 47925 reviews\n2. **Price**: 780,000.0 IDR\n3. **Key Highlights**:\n   - Without Parabens\n   - Cruelty-Free\n4. **Unique Features**:\n   - Vegan\n   - Light Coverage",
+        "reference_responses": ["I recommend the Ambient Lighting Powder by Hourglass. This product stands out because:\n1. Rating: 4.3081/5 from 271628 reviews\n2. Key Highlights: Without Parabens, Radiant Finish\n3. Price: 810,000.0 IDR"],
+        "key_points": ["product_type", "budget", "product_name", "price", "ingredients", "finish_type"]
+    },
+    {
+        "user_query": "My skin's been looking dull and lost its firmness lately. Ready to invest in a good moisturizer (budget up to 2M IDR) that can help with both concerns. Any recommendations?",
+        "system_response": "I recommend the The Dewy Skin Cream Plumping & Hydrating Moisturizer by Tatcha. Here's why it stands out:\n1. **Rating and Reviews**: 4.59548/5 from 404775 reviews\n2. **Price**: 1,350,000.0 IDR\n3. **Key Highlights**:\n   - Good for: Dullness/Uneven Texture\n   - Good for: Loss of firmness\n4. **Unique Features**:\n   - Without Sulfates SLS & SLES\n   - Hydrating",
+        "reference_responses": ["I recommend the The Quench Quadralipid Rapid Recovery Facial Moisturizer by BeautyBio. This moisturizers stands out because:\n1. Rating: 3.8462/5 from 5300 reviews\n2. Key Highlights: Good for: Dullness/Uneven Texture, Good for: Loss of firmness\n3. Price: 1,935,000.0 IDR"],
+        "key_points": ["skin_concerns", "budget", "product_name", "price", "benefits", "features"]
+    },
+    {
+        "user_query": "Need a vegan moisturizer that won't irritate acne-prone skin. Something alcohol-free and gentle for daily use. Budget around 450k IDR. What do you suggest?",
+        "system_response": "I recommend the Ultra Repair® Face Moisturizer by First Aid Beauty. Here's why it's a great choice:\n1. **Rating and Reviews**: 4.2681/5 from 45300 reviews\n2. **Price**: 450,000.0 IDR\n3. **Key Highlights**:\n   - Without Parabens\n   - Good for: Dryness\n4. **Unique Features**:\n   - Alcohol Free\n   - Vegan",
+        "reference_responses": [
+            "I recommend the Daily Blemish Repairing Moisturizer by Peace Out. This moisturizers stands out because:\n1. Rating: 4.2624/5 from 8255 reviews\n2. Key Highlights: Vegan, Alcohol Free\n3. Price: 420,000.0 IDR"
+        ],
+        "key_points": [
+            "product_name",
+            "price",
+            "rating",
+            "key_highlights"
+        ]
+    },
+    {
+        "user_query": "Want to layer my favorite perfume - looking for a luxurious body lotion that has great fragrance and moisturizes well. Willing to spend around 800k IDR. Any suggestions?",
+        "system_response": "I suggest the Be Delicious Body Lotion by Donna Karan. Here's why it's a luxurious choice:\n1. **Rating and Reviews**: 4.5/5 from 1200 reviews\n2. **Price**: 787,500.0 IDR\n3. **Key Highlights**:\n   - Good for: Dryness\n   - Fragrance Family: Florals\n4. **Unique Features**:\n   - Layerable Fragrance\n   - Scent: Fruity Florals",
+        "reference_responses": [
+            "I recommend the La Vie Est Belle Body Lotion by Lanc\u00f4me. This body moisturizers stands out because:\n1. Rating: 4.6667/5 from 5110 reviews\n2. Key Highlights: Cream Formula, Layerable Scent\n3. Price: 780,000.0 IDR"
+        ],
+        "key_points": [
+            "product_name",
+            "price",
+            "rating",
+            "key_highlights"
+        ]
+    },
+    {
+        "user_query": "Can anyone recommend a cruelty-free luxury candle with a woody scent? Looking to make my space cozy for winter. Budget around 700k IDR.",
+        "system_response": "I recommend the Charcoal Woods Candle by NEST New York. This candles & home scents stands out because:\n1. Rating: 4.5231/5 from 661 reviews\n2. Key Highlights: Without Parabens, Cruelty-Free\n3. Price: 690,000.0 IDR",
+        "reference_responses": [
+            "I recommend the Charcoal Woods Candle by NEST New York. This candles & home scents stands out because:\n1. Rating: 4.5231/5 from 661 reviews\n2. Key Highlights: Without Parabens, Cruelty-Free\n3. Price: 690,000.0 IDR"
+        ],
+        "key_points": [
+            "product_name",
+            "price",
+            "rating",
+            "key_highlights"
+        ]
+    },
+    {
+        "user_query": "Want to try baking powder for the first time - looking for something in a mini size with medium coverage and matte finish. Don't want to spend more than 350k IDR. Suggestions?",
+        "system_response": "I recommend the Mini Loose Setting Powder by NARS. Here's why it's a great choice for beginners:\n1. **Rating and Reviews**: 4.0909/5 from 23925 reviews\n2. **Price**: 330,000.0 IDR\n3. **Key Highlights**:\n   - Matte Finish\n   - Medium Coverage\n4. **Unique Features**:\n   - Without Parabens\n   - Good for: Pores",
+        "reference_responses": [
+            "I recommend the Mini Easy Bake Loose Baking & Setting Powder by HUDA BEAUTY. This mini size stands out because:\n1. Rating: 3.9007/5 from 112703 reviews\n2. Key Highlights: Medium Coverage, Matte Finish\n3. Price: 330,000.0 IDR"
+        ],
+        "key_points": [
+            "finish_type",
+            "product_name",
+            "price",
+            "rating",
+            "key_highlights"
+        ]
+    },
+    {
+        "user_query": "My combination skin needs a good primer that's environmentally conscious. Looking for something clean beauty focused that works well with oily T-zone. Budget around 750k IDR?",
+        "system_response": "I recommend the mini pore Eclipse Mattifying + Blurring Primer by Milk Makeup. Here's why it's a great choice:\n1. **Rating and Reviews**: 4.0652/5 from 15063 reviews\n2. **Price**: 180,000.0 IDR\n3. **Key Highlights**:\n   - Without Parabens\n   - Good for: Pores\n4. **Unique Features**:\n   - Clean at Sephora\n   - Mini Size",
+        "reference_responses": [
+            "I recommend the Perfect Canvas Clean Primer by REN Clean Skincare. This face stands out because:\n1. Rating: 4.5058/5 from 26547 reviews\n2. Key Highlights: Best for Oily, Combo, Normal Skin, Clean + Planet Positive\n3. Price: 735,000.0 IDR"
+        ],
+        "key_points": [
+            "product_name",
+            "price",
+            "rating",
+            "key_highlights"
+        ]
+    },
+    {
+        "user_query": "Can you recommend a high-end anti-aging serum that has rave reviews and targets dark spots and dullness? I'm looking to invest in a luxurious skincare treatment, even if it's a bit pricier.",
+        "system_response": "I recommend the Double Serum Firming & Smoothing Anti-Aging Concentrate by Clarins. Here's why it's a standout choice:\n1. **Rating and Reviews**: 4.3333/5 from 121650 reviews\n2. **Price**: 1,800,000.0 IDR\n3. **Key Highlights**:\n   - Good for: Loss of firmness\n   - Good for: Dullness/Uneven Texture\n4. **Unique Features**:\n   - Hydrating\n   - Vitamin C",
+        "reference_responses": [
+            "I recommend the Premier Cru Anti-Aging Serum with Niacinamide and Hyaluronic Acid by Caudalie. This treatments stands out because:\n1. Rating: 4.75/5 from 12449 reviews\n2. Key Highlights: Good for: Dark spots, Good for: Dullness/Uneven Texture\n3. Price: 2,085,000.0 IDR"
+        ],
+        "key_points": [
+            "product_name",
+            "price",
+            "rating",
+            "key_highlights"
+        ]
+    },
+    {
+        "user_query": "Can you suggest a premium, body-safe vibrator that has fantastic reviews and a focus on wellness? I'm looking to invest in a high-quality intimate care product, even if it's a bit more expensive.",
+        "system_response": "I recommend the Premium 2 by Womanizer. Here's why it's a top choice:\n1. **Rating and Reviews**: 4.3333/5 from 4094 reviews\n2. **Price**: 3,300,000.0 IDR\n3. **Key Highlights**:\n   - Waterproof\n   - Body-safe\n4. **Unique Features**:\n   - Rechargeable\n   - Wellness Focused",
+        "reference_responses": [
+            "I recommend the Vibe - 3-speed flutter-tip vibrator by maude. This body care stands out because:\n1. Rating: 4.6722/5 from 5406 reviews\n2. Key Highlights: Without Phthalates, Hypoallergenic\n3. Price: 735,000.0 IDR"
+        ],
+        "key_points": [
+            "product_name",
+            "price",
+            "rating",
+            "key_highlights"
+        ]
+    },
+    {
+        "user_query": "My combination skin tends to get a bit shiny in the T-zone, but I also struggle with dryness and dullness. I'm looking for an environmentally-conscious, clean beauty facial cleanser that can help keep my complexion balanced and radiant, all without breaking the bank. Do you have any recommendations in the 750,000 IDR range that fit this profile?",
+        "system_response": "I recommend the Vinopure Pore Purifying Gel Cleanser by Caudalie. Here's why it's a fantastic choice:\n1. **Rating and Reviews**: 4.2967/5 from 12851 reviews\n2. **Price**: 510,000.0 IDR\n3. **Key Highlights**:\n   - Good for: Pores\n   - Without Parabens\n4. **Unique Features**:\n   - Clean at Sephora\n   - Good for: Acne/blemishes",
+        "reference_responses": [
+            "I recommend the Clean Bee Ultra Gentle Facial Cleanser by Farmacy. This cleansers stands out because:\n1. Rating: 4.0341/5 from 52562 reviews\n2. Key Highlights: Good for: Dryness, Good for: Dullness/Uneven Texture\n3. Price: 420,000.0 IDR"
+        ],
+        "key_points": [
+            "product_name",
+            "price",
+            "rating",
+            "key_highlights"
+        ]
+    },
+    {
+        "user_query": "My combination skin needs a luxurious facial oil that can address aging concerns while keeping my complexion balanced. Any antioxidant-rich, anti-aging recommendations in the 1-1.2 million IDR range?",
+        "system_response": "I recommend the Midnight Recovery Concentrate Moisturizing Face Oil by Kiehl's Since 1851. Here's why it's a great choice:\n1. **Rating and Reviews**: 4.4463/5 from 172277 reviews\n2. **Price**: 1,050,000.0 IDR\n3. **Key Highlights**:\n   - Good for: Dullness/Uneven Texture\n   - Without Parabens\n4. **Unique Features**:\n   - Hydrating\n   - Antioxidant-packed",
+        "reference_responses": [
+            "I recommend the Orchid Antioxidant Beauty Face Oil - For Combination Skin by Herbivore. This moisturizers stands out because:\n1. Rating: 4.3527/5 from 26322 reviews\n2. Key Highlights: Best for Normal Skin, Good for: Anti-Aging\n3. Price: 1,110,000.0 IDR"
+        ],
+        "key_points": [
+            "product_name",
+            "price",
+            "rating",
+            "key_highlights"
+        ]
+    },
+    {
+        "user_query": "I'm looking to add relaxing, natural fragrance to my space. Any woody, earthy candle or diffuser options in the 400-500k IDR range?",
+        "system_response": "I recommend the ANOTHER 13 Candle by Le Labo. Here's why it's a great choice:\n1. **Rating and Reviews**: 4.3704/5 from 1679 reviews\n2. **Price**: 450,000.0 IDR\n3. **Key Highlights**:\n   - Woody and Earthy\n   - Classic Florals\n4. **Unique Features**:\n   - Relaxing Scent\n   - Without Parabens",
+        "reference_responses": [
+            "I recommend the French Cade & Lavender Home Diffuser by VOLUSPA. This candles & home scents stands out because:\n1. Rating: 4.6/5 from 7013 reviews\n2. Key Highlights: Woody and Earthy Scent\n3. Price: 450,000.0 IDR"
+        ],
+        "key_points": [
+            "product_name",
+            "price",
+            "rating",
+            "key_highlights"
+        ]
+    },
+    {
+        "user_query": "I want a high-quality, refillable bronzer with a matte finish that won't emphasize oiliness. What are your suggestions in the 800-900k IDR price point?",
+        "system_response": "I recommend the Soft Matte Advanced Perfecting Powder by NARS. Here's why it's a standout choice:\n1. **Rating and Reviews**: 4.2804/5 from 10625 reviews\n2. **Price**: 825,000.0 IDR\n3. **Key Highlights**:\n   - Pressed Powder Formula\n   - Matte Finish\n4. **Unique Features**:\n   - Refillable\n   - Without Parabens",
+        "reference_responses": [
+            "I recommend the Airbrush Matte Bronzer by Charlotte Tilbury. This cheek stands out because:\n1. Rating: 4.0976/5 from 137503 reviews\n2. Key Highlights: Refill Available, Without Sulfates SLS and SLES\n3. Price: 870,000.0 IDR"
+        ],
+        "key_points": [
+            "product_name",
+            "price",
+            "rating",
+            "key_highlights"
+        ]
+    },
+    {
+        "user_query": "My curly hair could use a deep treatment to soothe my dry, flaky scalp. Do you have any recommendations in the 800-900k IDR range that are known for being curl-enhancing?",
+        "system_response": "I recommend the Deep Treatment Masque by PATTERN by Tracee Ellis Ross. Here's why it's a great choice:\n1. **Rating and Reviews**: 4.2971/5 from 9507 reviews\n2. **Price**: 840,000.0 IDR\n3. **Key Highlights**:\n   - Good for: Dryness\n   - Without Parabens\n4. **Unique Features**:\n   - Curl Enhancing\n   - Good for: Flaky/Dry Scalp",
+        "reference_responses": [
+            "I recommend the Detox Hair & Scalp Treatment Set by BREAD BEAUTY SUPPLY. This value & gift sets stands out because:\n1. Rating: 4.1/5 from 2931 reviews\n2. Key Highlights: Good for: Flaky/Dry Scalp, Curl-Enhancing\n3. Price: 870,000.0 IDR"
+        ],
+        "key_points": [
+            "product_name",
+            "price",
+            "rating",
+            "key_highlights"
+        ]
+    },
+    {
+        "user_query": "I'm looking for a vegan, clean beauty after-sun mask to soothe my skin after a day in the sun. Any options in the 75,000 IDR price point that have strong reviews?",
+        "system_response": "I recommend the After Sun Mask by SEPHORA COLLECTION. Here's why it's a fantastic choice:\n1. **Rating and Reviews**: 4.1714/5 from 6955 reviews\n2. **Price**: 75,000.0 IDR\n3. **Key Highlights**:\n   - Best for Dry, Combo, Normal Skin\n   - Without Parabens\n4. **Unique Features**:\n   - Vegan\n   - Clean at Sephora",
+        "reference_responses": [
+            "I recommend the Clean Watermelon After Sun Mask by SEPHORA COLLECTION. This masks stands out because:\n1. Rating: 4.6667/5 from 9000 reviews\n2. Key Highlights: Vegan, Clean at Sephora\n3. Price: 75,000.0 IDR"
+        ],
+        "key_points": [
+            "product_name",
+            "price",
+            "rating",
+            "key_highlights"
+        ]
+    },
+    {
+        "user_query": "I'm in the market for a hypoallergenic, cruelty-free fragrance with a lovely peach scent. What would you suggest in the 400-500k IDR range?",
+        "system_response": "I recommend the Brazilian Crush Cheirosa ’62 Bum Bum Hair & Body Fragrance Mist by Sol de Janeiro. Here's why it's a wonderful choice:\n1. **Rating and Reviews**: 4.5633/5 from 258969 reviews\n2. **Price**: 480,000.0 IDR\n3. **Key Highlights**:\n   - Warm and Spicy\n   - Hypoallergenic\n4. **Unique Features**:\n   - Cruelty-Free\n   - Alluring Scent",
+        "reference_responses": [
+            "I recommend the Peach Fields Eau de Parfum Rollerball by SKYLAR. This women stands out because:\n1. Rating: 4.3882/5 from 9714 reviews\n2. Key Highlights: Hypoallergenic, Cruelty-Free\n3. Price: 450,000.0 IDR"
+        ],
+        "key_points": [
+            "product_name",
+            "price",
+            "rating",
+            "key_highlights"
+        ]
+    },
+    {
+        "user_query": "My combination skin needs a long-wearing, paraben-free makeup primer to create a smooth, hydrated base. Do you have any primer recommendations in the 600-700k IDR price point?",
+        "system_response": "I recommend the Mini POREfessional Hydrating Primer by Benefit Cosmetics. Here's why it stands out:\n1. **Rating and Reviews**: 4.043/5 from 27261 reviews\n2. **Price**: 600,000.0 IDR\n3. **Key Highlights**:\n   - Long-wearing\n   - Good for: Pores\n4. **Unique Features**:\n   - Without Parabens\n   - Hydrating",
+        "reference_responses": [
+            "I recommend the Luminous Silk Hydrating Makeup Primer by Armani Beauty. This face stands out because:\n1. Rating: 4.4756/5 from 19171 reviews\n2. Key Highlights: Without Parabens, Long-wearing\n3. Price: 660,000.0 IDR"
+        ],
+        "key_points": [
+            "product_name",
+            "price",
+            "rating",
+            "key_highlights"
+        ]
+    },
+    {
+        "user_query": "My skin is thirsty for a hydrating serum with hyaluronic acid. What products in the 750-800k IDR range would you suggest that are also free of silicones?",
+        "system_response": "I recommend the Mini Triple Peptide + Cactus Oasis Serum by youth to the people. Here's why it's a fantastic choice:\n1. **Rating and Reviews**: 4.3185/5 from 5291 reviews\n2. **Price**: 780,000.0 IDR\n3. **Key Highlights**:\n   - Good for: Loss of firmness\n   - Hydrating\n4. **Unique Features**:\n   - Hyaluronic Acid   - Without Silicones",
+        "reference_responses": [
+            "I recommend the Vinosource-Hydra SOS Hydrating Hyaluronic Acid Serum by Caudalie. This treatments stands out because:\n1. Rating: 4.6614/5 from 29046 reviews\n2. Key Highlights: Hyaluronic Acid, Without Silicones\n3. Price: 780,000.0 IDR"
+        ],
+        "key_points": [
+            "product_name",
+            "price",
+            "rating",
+            "key_highlights"
+        ]
+    },
+    {
+        "user_query": "I'm looking for a cream bronzer and highlighter duo that contains vitamin C. Do you have any recommendations in the 450-500k IDR range with a 3.9/5 or higher rating?",
+        "system_response": "I recommend the Mini On-the-Glow Blush by Pixi. Here's why it's a great choice:\n1. **Rating and Reviews**: 4.0117/5 from 1282 reviews\n2. **Price**: 450,000.0 IDR\n3. **Key Highlights**:\n   - Cream Formula\n   - Hydrating\n4. **Unique Features**:\n   - Vitamin C\n   - Without Parabens",
+        "reference_responses": [
+            "I recommend the BOUNCE  Magic Fit Creamy Bronzer & Highlighter Duo by beautyblender. This face stands out because:\n1. Rating: 3.8805/5 from 6027 reviews\n2. Key Highlights: Cream Formula, Vitamin C\n3. Price: 480,000.0 IDR"
+        ],
+        "key_points": [
+            "product_name",
+            "price",
+            "rating",
+            "key_highlights"
+        ]
+    },
+    {
+        "user_query": "I need a new lip gloss that's vegan and phthalate-free. What options do you suggest in the 250-300k IDR price point with a rating around 4.3/5?",
+        "system_response": "I recommend the Mini Lip Injection Liquid Lipstick by Too Faced. Here's why it's a standout option:\n1. **Rating and Reviews**: 4.3333/5 from 23616 reviews\n2. **Price**: 300,000.0 IDR\n3. **Key Highlights**:\n   - High Shine Finish\n   - Plumping\n4. **Unique Features**:\n   - Vegan\n   - Without Phthalates",
+        "reference_responses": [
+            "I recommend the Heart Melter Lip Gloss Stick by Kaja. This lip stands out because:\n1. Rating: 4.2526/5 from 106968 reviews\n2. Key Highlights: Without Phthalates, Vegan\n3. Price: 285,000.0 IDR"
+        ],
+        "key_points": [
+            "product_name",
+            "price",
+            "rating",
+            "key_highlights"
+        ]
+    },
+    {
+        "user_query": "My eyebrows could use a long-wearing, paraben-free taming gel. Any recommendations in the 300-325k IDR range with a rating of 3.9/5 or above?",
+        "system_response": "I recommend the Mini Brow Freeze Extreme Hold Laminated Brow Styling Wax by Anastasia Beverly Hills. Here's why it's a fantastic choice:\n1. **Rating and Reviews**: 4.1534/5 from 16011 reviews\n2. **Price**: 300,000.0 IDR\n3. **Key Highlights**:\n   - Long-wearing\n   - Without Parabens\n4. **Unique Features**:\n   - Allure Best of Beauty Winner\n   - Without Alcohol",
+        "reference_responses": [
+            "I recommend the BrowKiki Nourishing Clear Brow Gel by ONE/SIZE by Patrick Starrr. This eye stands out because:\n1. Rating: 3.8929/5 from 2692 reviews\n2. Key Highlights: Long-wearing, Without Parabens\n3. Price: 315,000.0 IDR"
+        ],
+        "key_points": [
+            "product_name",
+            "price",
+            "rating",
+            "key_highlights"
+        ]
+    },
+    {
+        "user_query": "I'm searching for a natural-finish, long-wearing tinted lip balm. What would you suggest in the 350k IDR price point?",
+        "system_response": "I recommend the Mini Maracuja Juicy Lip Balm by tarte. Here's why it's a great choice:\n1. **Rating and Reviews**: 4.4245/5 from 44816 reviews\n2. **Price**: 360,000.0 IDR\n3. **Key Highlights**:\n   - Natural Finish\n   - Hydrating\n4. **Unique Features**:\n   - Long-wearing\n   - Without Parabens",
+        "reference_responses": [
+            "I recommend the Hydrating Tinted Daily Lip Balm by rms beauty. This lip stands out because:\n1. Rating: 4.6723/5 from 31828 reviews\n2. Key Highlights: Natural Finish, Long-wearing\n3. Price: 360,000.0 IDR"
+        ],
+        "key_points": [
+            "finish_type",
+            "product_name",
+            "price",
+            "rating",
+            "key_highlights"
+        ]
+    }
+
+]
+  
